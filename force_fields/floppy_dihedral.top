@@ -1,0 +1,51 @@
+[ defaults ]
+; nbfunc        comb-rule       gen-pairs       fudgeLJ fudgeQQ
+1               3               yes             0.5     0.5
+
+[ atomtypes ]
+; atom type name type    mass                        sigma         epsilon 
+    CH3      CH3         15.0      0.000      A    4.3e-01       5.0e-01
+    CH2      CH2         14.0     0.000       A    3.0e-01       5.0e-01
+
+
+[ moleculetype ]
+; Name   nrexcl
+BUT      3
+
+[ atoms ]
+;  nr  type  resnr  resid  atom  cgnr  charge    mass
+    1   CH3    1    BUT      C1    1    0.000  15.0350
+    2   CH2    1    BUT      C2    2    0.000  14.0270
+    3   CH2    1    BUT      C3    3    0.000  14.0270
+    4   CH3    1    BUT      C4    4    0.000  15.0350
+
+; total charge of the molecule:   0.000
+
+[ bonds ]
+;  ai   aj  funct   c0         c1
+    1    2    2   0.1530   7.1500e+06
+    2    3    2   0.1530   7.1500e+06
+    3    4    2   0.1530   7.1500e+06
+
+[ pairs ]
+;  ai   aj  funct  ;  all 1-4 pairs but the ones excluded in GROMOS itp
+    1    4    1
+
+[ angles ]
+;  ai   aj   ak  funct   angle     fc
+    1    2    3    2    111.00   530.00
+    2    3    4    2    111.00   530.00
+
+[ dihedrals ]
+;  ai   aj   ak   al  funct    ph0      cp     mult
+    1    2    3    4    1      0.00     0.00    3
+
+[ exclusions ]
+;  ai   aj  funct  ;  GROMOS 1-4 exclusions
+
+[ system ]
+Pure Water
+
+[ molecules ]
+; Compound             #mols
+BUT                      1
