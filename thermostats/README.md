@@ -1,3 +1,3 @@
-Files for Day 3, summer session 
+Files for Day 1, PM session 2
 
-[PDF of talk on thermostats and barostats](stuff)
+[PDF of talk on thermostats and barostats](Thermostats_barostats_Day1_July2022.pdf)
