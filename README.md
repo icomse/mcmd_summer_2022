@@ -7,7 +7,7 @@ Repository for material from the 2020 MC/MD Summer Workshop
 | Day 1, AM Session 1 | HPC intro           |              
 | Day 1, AM Session 2 | HPC intro and scaling |               
 | Day 1, PM Session 1 | MD introduction and water simulations     |                
-| Day 1, PM Session 2 | Simulations, temperature, and pressure                    |        
+| Day 1, PM Session 2 | [Simulations, temperature, and pressure](thermostats/README.md)                    |        
 | Day 2, AM Session 1 | Uncertainty analysis                    |               
 | Day 2, AM Session 2 | Initializing simulations, managing force fields      	      	    |           
 | Day 2, PM Session 1 | Force fields        |               
