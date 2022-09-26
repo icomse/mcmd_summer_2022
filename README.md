@@ -15,7 +15,7 @@ Repository for material from the 2020 MC/MD Summer Workshop
 | Day 2, AM Session 1 | [Uncertainty analysis](uncertainty/README.md)                |               
 | Day 2, AM Session 2 | Initializing simulations, managing force fields      	      	    |           
 | Day 2, PM Session 1 | [What are force fields?](force_fields/README.md)        |               
-| Day 2, PM Session 2 | DEI workshop      	      	    |            
+| Day 2, PM Session 2 | [DEI workshop](dei/README.md)      	      	    |            
 | Day 3, AM Session 1 | [Simulation Validation](validation/README.md)     	      	    |            
 | Day 3, AM Session 2 | [Bootstrapping](bootstrapping/README.md)      	      	    |               
 | Day 3, PM Session 1 | HOOMD and polymers      	      	    |               
