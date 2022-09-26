@@ -20,7 +20,7 @@ Repository for material from the 2020 MC/MD Summer Workshop
 | Day 3, AM Session 2 | [Bootstrapping](bootstrapping/README.md)      	      	    |               
 | Day 3, PM Session 1 | HOOMD and polymers      	      	    |               
 | Day 3, PM Session 2 | Simulation of polymers      	      	    |             
-| Day 4, AM Session 1 | MC Stuff      	      	    |               
+| Day 4, AM Session 1 | [MC Stuff](README.md)   	      	    |               
 | Day 4, AM Session 2 | MC stuff      	      	    |               
 | Day 4, PM Session 1 | MC Stuff       	      	    |               
 | Day 4, PM Session 2 | MC Stuff     	      	    |               
