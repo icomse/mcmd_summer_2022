@@ -19,7 +19,7 @@
 | Day 3, AM Session 2 | [Bootstrapping](bootstrapping/README.md)      	      	    |               
 | Day 3, PM Session 1 | HOOMD and polymers      	      	    |               
 | Day 3, PM Session 2 | Simulation of polymers      	      	    |             
-| Day 4, AM Session 1 | [MC Stuff](README.md)   	      	    |               
+| Day 4, AM Session 1 | [Metropolis Monte Carlo](Monte_Carlo/Theory/Metropolis_MC.pptx)  	      	    |               
 | Day 4, AM Session 2 | MC stuff      	      	    |               
 | Day 4, PM Session 1 | MC Stuff       	      	    |               
 | Day 4, PM Session 2 | MC Stuff     	      	    |               
