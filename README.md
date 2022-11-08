@@ -23,7 +23,7 @@
 | Day 4, AM Session 2 | MC stuff      	      	    |               
 | Day 4, PM Session 1 | MC Stuff       	      	    |               
 | Day 4, PM Session 2 | MC Stuff     	      	    |               
-| Day 5, AM Session 1 | [Fragment Sampling](Monte_Carlo/Theory/Fragment_Sampling.pptx)     	      	    |             
+| Day 5, AM Session 1 | [Fragment Sampling](Monte_Carlo/Theory/Fragment_MC.pptx)     	      	    |             
 | Day 5, AM Session 2 | [Grand Canonical Monte Carlo](Monte_Carlo/Theory/GCMC.pptx)      	      	    |             
 | Day 5, PM Session 1 | MC stuff      	      	    |             
 | Day 5, PM Session 2 | How to do computational research      	      	    |             
