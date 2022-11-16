@@ -2,9 +2,9 @@
 
 See notebooks:
 
-  * 1-lj.ipynb
-  * 2-lj.ipynb
-  * 3-lj-NPT.ipynb
-  * 4-lj-perf.ipynb
+  * [1-lj.ipynb](1-lj.ipynb)
+  * [2-lj.ipynb](2-lj.ipynb
+  * [3-lj-NPT.ipynb](3-lj-NPT.ipynb)
+  * [4-lj-perf.ipynb](4-lj-perf.ipynb)
 
-For a description of the tutorals.
+For tutorials on running simulations on HPC.
