@@ -1,4 +1,4 @@
-# Notebooks 
+# Intro to MD simulations and high-performance computing
 
 See notebooks:
 
