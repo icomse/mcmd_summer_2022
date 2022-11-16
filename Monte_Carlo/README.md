@@ -1,6 +1,6 @@
 ## Day 3
-  - [Powerpoint presentation of the basic theory of Monte Carlo simulation](Theory/)
-  - [Powerpoint presentation on translation and rotation moves in Monte Carlo](Theory/)
+  - [Powerpoint presentation of the basic theory of Monte Carlo simulation](Theory/Metropolis_MC.pptx)
+  - [Powerpoint presentation on translation and rotation moves in Monte Carlo](Theory/translation_rotation_MC.pptx)
 
 
 ## Day 4
