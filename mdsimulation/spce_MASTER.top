@@ -1,0 +1,34 @@
+[ defaults ]
+; nbfunc        comb-rule       gen-pairs       fudgeLJ fudgeQQ
+  1             2               no              1.0     1.0
+
+[ atomtypes ]
+OW      15.9994  -0.8476  A   3.16557e-01  6.50629e-01
+HW       1.0080   0.4238  A   0.00000e+00  0.00000e+00
+
+[ moleculetype ]
+; molname	nrexcl
+SOL		2
+
+[ atoms ]
+; id  at type     res nr  res name  at name  cg nr  charge    mass
+  1   OW      1       SOL       OW       1      -0.8476   15.99940
+  2   HW      1       SOL       HW1      1       0.4238    1.00800
+  3   HW      1       SOL       HW2      1       0.4238    1.00800
+
+[ settles ]
+; OW	funct	doh	dhh
+1       1       0.1     0.16330
+
+[ exclusions ]
+1	2	3
+2	1	3
+3	1	2
+
+[ system ]
+
+Pure SPCE water
+
+[ molecules ]
+SOL   XXXX 
+
