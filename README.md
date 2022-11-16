@@ -7,8 +7,8 @@
 
 | Session             |   Description and links      |
 |---------------------|---------------------|
-| Day 1, AM Session 1 | [intro_simulation_hpc/README.md](HPC intro)           |              
-| Day 1, AM Session 2 | [intro_simulation_hpc/README.md](HPC intro and scaling) |               
+| Day 1, AM Session 1 | (HPC intro)[intro_simulation_hpc/README.md]           |              
+| Day 1, AM Session 2 | (HPC intro and scaling)[intro_simulation_hpc/README.md] |               
 | Day 1, PM Session 1 | MD introduction and water simulations     |                
 | Day 1, PM Session 2 | [Simulations, temperature, and pressure](thermostats/README.md)                    |        
 | Day 2, AM Session 1 | [Uncertainty analysis](uncertainty/README.md)                |               
