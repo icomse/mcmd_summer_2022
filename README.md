@@ -9,8 +9,8 @@
 |---------------------|---------------------|
 | Day 1, AM Session 1 | [High Performance Computing introduction](intro_simulation_hpc/README.md)           |              
 | Day 1, AM Session 2 | [HPC intro and scaling](intro_simulation_hpc/README.md) |               
-| Day 1, PM Session 1 | [MD introduction and water simulations](md_simulations/README.md)     |                
-| Day 1, PM Session 2 | [Simulations, temperature, and pressure](md_simulation/README.md)                    |        
+| Day 1, PM Session 1 | [MD introduction and water simulations](md_simulation/README.md)     |                
+| Day 1, PM Session 2 | [Simulations, temperature, and pressure](md_simulatio/README.md)                    |        
 | Day 2, AM Session 1 | [Uncertainty analysis](uncertainty/README.md)                |               
 | Day 2, AM Session 2 | Initializing simulations, managing force fields      	      	    |           
 | Day 2, PM Session 1 | [What are force fields?](force_fields/README.md)        |               
