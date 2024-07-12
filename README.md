@@ -1,8 +1,5 @@
 # Repository for material from the 2022 MC/MD Summer Workshop
 
-### Requirements:
-(put some information here about what software is required and how to set it up)
-
 ### Workshop Material
 
 | Session             |   Description and links      |
